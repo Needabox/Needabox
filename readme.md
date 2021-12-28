@@ -5,19 +5,19 @@
 <h3 align="center">I'm a Web Developer from Indonesia.</h3>
 
 
-## 👨‍💻About Me
+## 🧑‍🚀About Me
 
-- 💻 I'm currently studying at **[State University of Jakarta](https://www.unj.ac.id/)** Majoring In **Education of Information Technology**.
+- 🎓 I'm currently studying at **[State University of Jakarta](https://www.unj.ac.id/)** Majoring In **Education of Information Technology**.
   
-- 💻 My Last Education In Vocational High School Majoring In **Software Engineering**.
+- 📚 My Last Education In Vocational High School Majoring In **Software Engineering**.
   
 - 💻 I'm currently focusing on **Backend Web Development**.
 
-- 🌱 I'm currently learning **Backend & Frontend Framework**
+- 🧑‍💻 I'm currently learning **Backend & Frontend Framework**
 
-- 👯 I'm currently With **[Art By Code](artbycode.id)** And **[Copas Dev](https://www.instagram.com/copas_dev/)**
+- 👩🏻‍🤝‍👩🏻 I'm currently With **[Art By Code](artbycode.id)** And **[Copas Dev](https://www.instagram.com/copas_dev/)**
 
-- 👨‍💻 My Portfolio Can Be Seen **[Here](https://muhammad-rafli.vercel.app/)**
+- 👨🤖 My Portfolio Can Be Seen **[Here](https://muhammad-rafli.vercel.app/)**
 
 - 📫 Reach Me At **rafli1162003@gmail.com**
 
