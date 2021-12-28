@@ -17,7 +17,7 @@
 
 - 👩🏻‍🤝‍👩🏻 I'm currently With **[Art By Code](artbycode.id)** And **[Copas Dev](https://www.instagram.com/copas_dev/)**
 
-- 👨🤖 My Portfolio Can Be Seen **[Here](https://muhammad-rafli.vercel.app/)**
+- 🤖 My Portfolio Can Be Seen **[Here](https://muhammad-rafli.vercel.app/)**
 
 - 📫 Reach Me At **rafli1162003@gmail.com**
 
