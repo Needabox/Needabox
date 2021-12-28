@@ -1,7 +1,8 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<img src="ploy3.jpg">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NEEDABOX</h1>
-<h3 align="center">I'm a Web Developer from Indonesia :indonesia: .</h3>
+<h3 align="center">I'm a Web Developer from Indonesia.</h3>
 
 
 ## 👨‍💻About Me
