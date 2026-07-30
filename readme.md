@@ -1,40 +1,165 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <img src="ploy3.jpg">
+<div align="center">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NEEDABOX</h1>
-<h3 align="center">I'm a Web Developer from Indonesia.</h3>
+# Muhammad Rafli
 
+Backend / Product Software Engineer from Indonesia 🇮🇩
 
-## 🧑‍🚀About Me
+Building scalable backend systems with Go, Laravel, PostgreSQL, Docker, and cloud-native technologies.
 
-- 🎓 I'm currently studying at **[State University of Jakarta](https://www.unj.ac.id/)** Majoring In **Education of Information Technology**.
-  
-- 📚 My Last Education In Vocational High School Majoring In **Software Engineering**.
-  
-- 💻 I'm currently focusing on **Backend Web Development**.
+<p>
+<a href="https://muhammad-rafli.vercel.app">Portfolio</a> •
+<a href="https://linkedin.com/in/muhammad-rafli11">LinkedIn</a> •
+<a href="mailto:rafli1162003@gmail.com">Email</a>
+</p>
 
-- 🧑‍💻 I'm currently learning **Backend & Frontend Framework**
+<img src="https://komarev.com/ghpvc/?username=Needabox&style=flat-square&color=blue" />
 
-- 👩🏻‍🤝‍👩🏻 I'm currently With **[Art By Code](artbycode.id)** And **[Copas Dev](https://www.instagram.com/copas_dev/)**
+</div>
 
-- 🤖 My Portfolio Can Be Seen **[Here](https://muhammad-rafli.vercel.app/)**
+---
 
-- 📫 Reach Me At **rafli1162003@gmail.com**
+## 👋 About Me
 
-## 🚀 Languages and Tools:
+I'm a Backend / Product Software Engineer with **5+ years of experience** building APIs, backend services, and business applications.
 
-<p align="left"> 
-    <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/color/48/000000/laravel.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/color/48/000000/react.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/officel/color/48/000000/php-logo.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+My primary focus is designing scalable systems that are reliable, maintainable, and easy to extend.
+
+### Current Focus
+
+- Backend Development with Go & Laravel
+- REST API Design
+- PostgreSQL Performance Optimization
+- Distributed Systems
+- Docker & CI/CD
+- System Design
+- Clean Architecture
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=go,php,laravel,nodejs,ts,react,postgres,mysql,redis,docker,rabbitmq,linux,git,githubactions,nginx,vscode&perline=8"/>
+
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🎯 Loyalty Point Platform
+
+Backend platform for reward redemption and loyalty management.
+
+**Highlights**
+
+- REST API
+- Scheduled Jobs
+- Reward Redemption
+- PostgreSQL
+- Redis
+- Docker
+- Clean Architecture
+
+---
+
+### 🏋️ Membership Management System
+
+Membership platform supporting over **1,000+ active members**.
+
+**Highlights**
+
+- Authentication
+- Booking System
+- Attendance Tracking
+- Payment Integration
+- Admin Dashboard
+
+---
+
+### ⚡ Backend Migration
+
+Migrated legacy Laravel applications into Go services for better performance and maintainability.
+
+Highlights:
+
+- Service Refactoring
+- API Development
+- Database Optimization
+- Performance Improvements
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Needabox&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Needabox&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Needabox&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Needabox&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🛠️ Currently Exploring
+
+- Kubernetes
+- gRPC
+- Event-Driven Architecture
+- Distributed Systems
+- Observability
+- Performance Optimization
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://muhammad-rafli.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:rafli1162003@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/muhammad-rafli11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Needabox">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> *"Great software is not only about writing code, but about designing systems that remain reliable as they grow."*height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
 </p>
