@@ -3,14 +3,14 @@
 
 # Muhammad Rafli
 
-Backend / Product Software Engineer from Indonesia 🇮🇩
+Software Engineer from Indonesia 🇮🇩
 
 Building scalable backend systems with Go, Laravel, PostgreSQL, Docker, and cloud-native technologies.
 
 <p>
-<a href="https://muhammad-rafli.vercel.app">Portfolio</a> •
-<a href="https://linkedin.com/in/muhammad-rafli11">LinkedIn</a> •
-<a href="mailto:rafli1162003@gmail.com">Email</a>
+<a href="mrafli.xyz">Portfolio</a> •
+<a href="https://www.linkedin.com/in/rafli11">LinkedIn</a> •
+<a href="mailto:mrafli.dev@gmail.com">Email</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Needabox&style=flat-square&color=blue" />
@@ -21,7 +21,7 @@ Building scalable backend systems with Go, Laravel, PostgreSQL, Docker, and clou
 
 ## 👋 About Me
 
-I'm a Backend / Product Software Engineer with **5+ years of experience** building APIs, backend services, and business applications.
+I'm a Software Engineer with **5+ years of experience** building APIs, backend services, and business applications.
 
 My primary focus is designing scalable systems that are reliable, maintainable, and easy to extend.
 
