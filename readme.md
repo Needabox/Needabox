@@ -1,4 +1,4 @@
-<img src="ploy3.jpg">
+<img src="rafli-dev.png">
 <div align="center">
 
 # Muhammad Rafli
@@ -8,7 +8,7 @@ Software Engineer from Indonesia 🇮🇩
 Building scalable backend systems with Go, Laravel, PostgreSQL, Docker, and cloud-native technologies.
 
 <p>
-<a href="mrafli.xyz">Portfolio</a> •
+<a href="https://mrafli.xyz">Portfolio</a> •
 <a href="https://www.linkedin.com/in/rafli11">LinkedIn</a> •
 <a href="mailto:mrafli.dev@gmail.com">Email</a>
 </p>
